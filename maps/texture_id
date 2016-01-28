@@ -1,0 +1,38 @@
+  
+   texture_id for minishell in /home/vicostudio/rendu/lapin/TekDoom
+   
+   Made by victor sousa
+   Login   <sousa_v@epitech.net>
+   
+   Started on  Fri Jan 22 14:39:40 2016 victor sousa
+   Last update Tue Jan 26 20:27:46 2016 victor sousa
+  
+g	=	ground
+r	=	roof
+w	=	wall
+l	=	wood
+s	=	snoop dogg
+h	=	munition sniper
+b	=	white board
+p	=	munition flingue
+q	=	munition pompe
+v	=	vie
+k	=	clé
+1	=	mob1 (chirou)
+2	=	mob2 (fourri)
+3	=	mob3 (joris)
+4	=	mob4 (damien)
+5	=	mob5 (laviel)
+d	=	porte
+m	=	lumière
+j	=	jump block
+e	=	elevator
+u	=	elevator button up
+i	=	elevator button down
+x	=	jesus
+y	=	machine
+f	=	pouf gris
+,	=	pour jaune
+b	=	tableau blanc
+c	=	casier
+n	=	tableau liege
