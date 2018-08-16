@@ -1,5 +1,3 @@
-# TekDoom-CoquilletteJambon
+# TekDoom
 
-Fonctionne avec la liblapin (lib d'epitech).
-Pour lancer -> Make re -> ./tekdoom [map_path] (basic map -> epitech.teur)
-Note : 42
+https://www.youtube.com/watch?v=O0jFTnKdfSo
