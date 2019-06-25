@@ -1,3 +1,3 @@
 # TekDoom
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=O0jFTnKdfSo&t=2s)
+Jeu réaliser lors de mon cursus à Epitech, en 3 "dimensions" (raycasting & raytracing) avec une librairie graphique basique fournit par Epitech.
